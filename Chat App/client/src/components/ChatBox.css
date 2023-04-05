@@ -1,0 +1,28 @@
+.chatbox-receiver {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    margin-bottom: 10px;
+  }
+  
+  .chatbox-sender {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    margin-bottom: 10px;
+  }
+  
+  .chatbox-receiver-message {
+    padding: 10px;
+    background-color: #dcf8c6;
+    border-radius: 10px;
+    max-width: 60%;
+  }
+  
+  .chatbox-sender-message {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+    max-width: 60%;
+  }
+  
